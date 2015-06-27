@@ -10,9 +10,12 @@
  *********************************************/
 .palantir-logo {
   position: absolute;
-  width: 100px;
+  width: 270px;
   bottom: 3em;
   left: 3em; }
+.itelios-logo{
+margin-left: 10px;
+}
 
 /*********************************************
  * GLOBAL STYLES
